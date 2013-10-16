@@ -1,10 +1,12 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+Hópmeðlimir
+- [x] Eygló Rut Guðlaugsdóttir
+- [x] Sonja Jónsdóttir
+- [x] Valgerður Rós Morthens
 
 ## 1. Linux uppsetning
-
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Það gekk vel að setja upp Linux, öllum spurningum okkar var svarað á facebook 
 
 ## 2. Uppsetning á vim && git
 
@@ -12,18 +14,24 @@ Lýsið hvernig gekk að setja upp þessi tól.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Það gekk vel að forka en lentum í smá basli þar sem við vorum allar að vinna í sömu tölvunni. Við áttum í smá erfiðleikum að skilja verkefna lýsinguna en það gekk á endanum.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+https://github.com/skvisurnar/INTOPrufa 
+https://github.com/sonjajons/INTOPrufa
+https://github.com/eyglo/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Qt License: 
+Qt is licensed under a commercial and open source license (GNU Lesser General Public License version 2.1). 
+Link: http://qt-project.org/downloads
+
+Vuze License: GNU General Public License V2 
+Link: http://www.vuze.com/ 
+
+VirtualBox License: GNU General Public License V2 
+Link: http://virtualboxes.org/images/ubuntu/
 
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
-
-
-
-górrrrrrr
