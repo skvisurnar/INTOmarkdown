@@ -9,10 +9,7 @@ Hópmeðlimir
 <<<<<<< HEAD
 
 Tad gekk vel ad setja Linux upp i tolvunni. Akvadum ad notast vid VirtualBox og setja upp Ubuntu i tvi. Sma basl i byrjun en fengum god svor inna facebook.
-Gatum ekki sett inn mynd.. fundum enga hjalp a google ne a github flavored markdown. En gatum gert svona broskall :)
 =======
-Það gekk vel að setja upp Linux, öllum spurningum okkar var svarað á facebook 
-
 ![alt text](http://i.imgur.com/mcDTabB.png)
 
 ## 2. Uppsetning a vim og git
