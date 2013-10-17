@@ -22,8 +22,6 @@ Gekk vel ad setja upp audvelt ad fylgja leidbeiningum.
 Það gekk vel að forka en lentum í smá basli þar sem við vorum allar að vinna í sömu tölvunni. Við áttum í smá erfiðleikum að skilja verkefna lýsinguna en það gekk á endanum.
 
 https://github.com/skvisurnar/INTOPrufa
-https://github.com/sonjajons/INTOPrufa
-https://github.com/eyglo/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
