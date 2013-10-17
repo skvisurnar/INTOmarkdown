@@ -2,24 +2,34 @@
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
+- [x] Eyglo Rut Gudlaugsdottir
+- [x] Sonja Jonsdottir
+- [x] Valgerdur Ros Morthens
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Tad gekk vel ad setja Linux upp i tolvunni. Akvadum ad notast vid VirtualBox og setja upp Ubuntu i tvi. Sma basl i byrjun en fengum god svor inna facebook.
+Gatum ekki sett inn mynd.. fundum enga hjalp a google ne a github flavored markdown. En gatum gert svona broskall :)
 
-## 2. Uppsetning á vim && git
+![alt text](http://i.imgur.com/mcDTabB.png)
 
-Lýsið hvernig gekk að setja upp þessi tól.
+## 2. Uppsetning a vim og git
+
+Gekk vel ad setja upp audvelt ad fylgja leidbeiningum.
+
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Það gekk vel að forka en lentum í smá basli þar sem við vorum allar að vinna í sömu tölvunni. Við áttum í smá erfiðleikum að skilja verkefna lýsinguna en það gekk á endanum.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+https://github.com/skvisurnar/INTOPrufa
+https://github.com/sonjajons/INTOPrufa
+https://github.com/eyglo/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Qt License: Qt is licensed under a commercial and open source license (GNU Lesser General Public License version 2.1). Link: http://qt-project.org/downloads
 
-## 5. Unnið með Git (2. hluti)
+Vuze License: GNU General Public License V2 Link: http://www.vuze.com/
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+VirtualBox License: GNU General Public License V2 Link: http://virtualboxes.org/images/ubuntu/
+
