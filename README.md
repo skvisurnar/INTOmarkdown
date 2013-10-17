@@ -1,14 +1,17 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+Hópmeðlimir
+- [x] Eygló Rut Guðlaugsdóttir
+- [x] Sonja Jónsdóttir
+- [x] Valgerður Rós Morthens
 
-- [x] Eyglo Rut Gudlaugsdottir
-- [x] Sonja Jonsdottir
-- [x] Valgerdur Ros Morthens
 ## 1. Linux uppsetning
+<<<<<<< HEAD
 
 Tad gekk vel ad setja Linux upp i tolvunni. Akvadum ad notast vid VirtualBox og setja upp Ubuntu i tvi. Sma basl i byrjun en fengum god svor inna facebook.
 Gatum ekki sett inn mynd.. fundum enga hjalp a google ne a github flavored markdown. En gatum gert svona broskall :)
+=======
+Það gekk vel að setja upp Linux, öllum spurningum okkar var svarað á facebook 
 
 ![alt text](http://i.imgur.com/mcDTabB.png)
 
@@ -30,6 +33,14 @@ https://github.com/eyglo/INTOPrufa
 Qt License: Qt is licensed under a commercial and open source license (GNU Lesser General Public License version 2.1). Link: http://qt-project.org/downloads
 
 Vuze License: GNU General Public License V2 Link: http://www.vuze.com/
+Qt License: 
+Qt is licensed under a commercial and open source license (GNU Lesser General Public License version 2.1). 
+Link: http://qt-project.org/downloads
 
-VirtualBox License: GNU General Public License V2 Link: http://virtualboxes.org/images/ubuntu/
+Vuze License: GNU General Public License V2 
+Link: http://www.vuze.com/ 
+
+VirtualBox License: GNU General Public License V2 
+Link: http://virtualboxes.org/images/ubuntu/
+
 
